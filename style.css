@@ -1,0 +1,64 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+#circle {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  margin-top: -100px;
+  margin-bottom: -80px;
+  margin-inline-start: 530px;
+}
+#circle2 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background: #fff;
+  margin-top: -200px;
+  margin-bottom: -200px;
+  margin-inline-start: 500px;
+}
+#circle3 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background: #fff;
+  margin-bottom: -50px;
+  margin-inline-start: 650px;
+}
+#projects {
+  background-color: #e2edff;
+}
+section {
+  padding-top: 5rem;
+  margin-top: 8rem;
+  position: relative;
+  width: 100%;
+  background: linear-gradient(0deg, rgb(0, 177, 195) 0%, rgb(164, 212, 160) 80%);
+}
+.sosial {
+  display: flex;
+}
+.sosial a {
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  background: rgb(46, 193, 219);
+  border-radius: 50%;
+  margin: 22px 30px;
+  margin-left: 230px;
+  color: white;
+  border: 2px solid white;
+}
+.sosial a:hover {
+  transform: scale(1.3);
+  transition: 0.5s;
+  background: transparent;
+  border: 2px solid rgb(46, 193, 219);
+}
+nav ul li a:hover {
+  color: rgb(34, 71, 233);
+  background: rgb(80, 187, 103);
+}
