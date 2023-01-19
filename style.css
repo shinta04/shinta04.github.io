@@ -1,6 +1,9 @@
 .jumbotron {
-  padding-top: 6rem;
+  padding-top: 12rem;
   background-color: #e2edff;
+}
+#about {
+  padding-top: 10rem;
 }
 #circle {
   height: 300px;
@@ -10,23 +13,6 @@
   margin-bottom: -80px;
   margin-inline-start: 530px;
 }
-#circle2 {
-  height: 200px;
-  width: 200px;
-  border-radius: 50%;
-  background: #fff;
-  margin-top: -200px;
-  margin-bottom: -200px;
-  margin-inline-start: 500px;
-}
-#circle3 {
-  height: 200px;
-  width: 200px;
-  border-radius: 50%;
-  background: #fff;
-  margin-bottom: -50px;
-  margin-inline-start: 650px;
-}
 #projects {
   background-color: #e2edff;
 }
@@ -35,7 +21,7 @@ section {
   margin-top: 8rem;
   position: relative;
   width: 100%;
-  background: linear-gradient(0deg, rgb(0, 177, 195) 0%, rgb(164, 212, 160) 80%);
+  background: linear-gradient(0deg, rgb(0, 177, 195) 0%, rgb(250, 252, 250) 80%);
 }
 .sosial {
   display: flex;
